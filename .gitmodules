@@ -4,3 +4,6 @@
 [submodule "liskak"]
 	path = liskak
 	url = https://github.com/LiskCommunityTools/liskak.git
+[submodule "Lisk-fundsDistributor"]
+	path = Lisk-fundsDistributor
+	url = https://github.com/LiskCommunityTools/Lisk-fundsDistributor.git
