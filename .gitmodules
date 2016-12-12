@@ -1,0 +1,6 @@
+[submodule "LiskScripts"]
+	path = LiskScripts
+	url = https://github.com/LiskCommunityTools/LiskScripts.git
+[submodule "liskak"]
+	path = liskak
+	url = https://github.com/LiskCommunityTools/liskak.git
